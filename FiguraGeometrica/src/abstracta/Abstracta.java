@@ -26,7 +26,7 @@ public class Abstracta {
 
         System.out.println("ingrese el valor del lado de su Cuadrado");
         entrada = miEscaner.nextFloat();
-        miTriangulo.setLado(entrada);
+        miCuadrado.setlado(entrada);
         System.out.println(miCuadrado.CalcularArea());
         System.out.println(miCuadrado.CalcularPerimetro());
 

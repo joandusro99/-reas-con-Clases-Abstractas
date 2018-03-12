@@ -28,4 +28,8 @@ public class Cuadrado extends FiguraGeometrica {
         return perimetro;
     }
 
+    void setlado(float entrada) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
 }
